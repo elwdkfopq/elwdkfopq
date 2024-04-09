@@ -1,16 +1,38 @@
-### Hi there 👋
+# 자기소개
+항상 배울 자세가 되어있는 개발자 지망생!!🙋‍♀️<br>
+안녕하세요 저는 열정 충만, 패기 충만 개발자 지망생 입니다. <br>
+저는 여러가지 분야에 폭넓은 지식을 갈망하며 뭐든 할 수 있는 사람이 되는 것을 목표로 합니다. <br>
+또한 그러한 지식을 사회에 도움이 되는 일에 사용하는 것이 저의 삶의 재미입니다.<br>
+이런 저의 특성을 잘 살려서 밝은 회사, 밝은 세상을 만드는 사람이 되겠습니다.
 
-<!--
-**elwdkfopq/elwdkfopq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 스킬
+- 기획
+  - figma
+- Front-End
+    - HTML/CSS
+    - JavaScript
 
-Here are some ideas to get you started:
+- Back-End
+    - Java
+    - Python
+    - Spring
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 경력/경험
+#### - 웹 개발 프로젝트(2024.03~2024.04)
+        - 언어: HTML/CSS, JavaScript              
+        - 프레임워크: Spring                
+        - 담당: 기획, Front-End, Back-End 
+                프로그램 기획서, 화면설계서 작성
+                회원가입/로그인 화면 및 기능(Front/Back) 구현
+                마이페이지 화면 구현(Front)
+        
+
+#### - 정처기를 Java! 프로젝트(2024.01)
+            - 언어: Java
+            - 담당: 기획, Back-End
+                    요구사항정의서, 테이블명세서 작성
+                    회원가입/로그인 기능 구현
+                    
+# 교육사항
+인공지능 융합서비스 개발자 과정(2023.12.29 ~ 2024.06.21)
